@@ -31,4 +31,4 @@ if (valor1 == valor2)
 ```
 ![imagem logo C#](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OmcrmAnD7msDY3iSvrwo528kGygKG4qx-w&s)
 
-![My]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,bootstrap,mysql,vscode,visualstudio,figma,linkedin,instagram,github&perline=6)
